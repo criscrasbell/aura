@@ -34,12 +34,6 @@ Sed vel dictum nulla, vitae hendrerit nunc. Etiam sed fringilla quam. Integer la
                 <p className="pt-4">Id velit ut tortor pretium viverra. Aenean pharetra magna ac placerat vestibulum lectus mauris. Vitae sapien pellentesque habitant morbi. Libero justo laoreet sit amet. Tincidunt id aliquet risus feugiat in ante. Pharetra convallis posuere morbi leo urna. Donec massa sapien faucibus et molestie. Nisl nisi scelerisque eu ultrices vitae auctor. A arcu cursus vitae congue mauris rhoncus aenean vel elit. Ut etiam sit amet nisl purus in mollis. Fames ac turpis egestas integer eget. Sodales ut eu sem integer vitae justo eget magna. Viverra ipsum nunc aliquet bibendum enim facilisis gravida. Odio ut enim blandit volutpat maecenas volutpat. Viverra justo nec ultrices dui sapien eget mi proin. Integer enim neque volutpat ac tincidunt vitae. Velit euismod in pellentesque massa placerat duis ultricies. Orci phasellus egestas tellus rutrum tellus pellentesque. Diam vel quam elementum pulvinar etiam non quam lacus suspendisse. Metus vulputate eu scelerisque felis imperdiet proin. Pulvinar etiam non quam lacus. Aliquam vestibulum morbi blandit cursus risus at ultrices mi. Porttitor eget dolor morbi non arcu risus quis varius quam. Massa vitae tortor condimentum lacinia. Diam vel quam elementum pulvinar etiam non quam. Pharetra massa massa ultricies mi quis hendrerit. Nunc non blandit massa enim nec. Sed vulputate odio ut enim. Vestibulum rhoncus est pellentesque elit ullamcorper dignissim.</p>
 
             </div>
-
-        {/* <div className="flex flex-col items-center justify-center">
-          <div className="flex flex-col items-left justify-center">
-
-          </div>
-        </div> */}
       </div>
     );
   };
