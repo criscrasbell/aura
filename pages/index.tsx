@@ -11,7 +11,14 @@ const Profile = () => {
   );
 };
 
-const Article = ({ id, title, date, description }) => {
+type ArticleProps = {
+  id: string,
+  title: string,
+  date: string,
+  description: string
+}
+
+const Article = ({ id, title, date, description }: ArticleProps) => {
   const link_href = `/articles/${id}`;
   return (
     <div className="m-2">
@@ -27,7 +34,11 @@ const Article = ({ id, title, date, description }) => {
   );
 };
 
-const Home = ({ articles }) => {
+type HomeProps = {
+  articles: ArticleProps[]
+}
+
+const Home = ({ articles }: HomeProps) => {
   return (
     <div className="m-8 lg:mx-64 md:mx-32 sm:mx-16 divide-y-2 divide-purple-400">
       <Profile />
